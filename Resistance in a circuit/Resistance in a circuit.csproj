@@ -86,17 +86,5 @@
   <ItemGroup>
     <None Include="Resources\resistor-res27.gif" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\resistor-res271.gif" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\resistor-res27 %281%29.gif" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\resistor-res27 %282%29.gif" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\resistor-res27 111.gif" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
